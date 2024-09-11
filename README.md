@@ -1,6 +1,6 @@
 # Pabllo Rhuan Carvalho
 
-**Frontend Developer | Industrial Automation Enthusiast**
+**Frontend Developer**
 
 Hello! I'm a 25-year-old developer from Brazil with a passion for web and mobile development. Despite not having a formal college degree, I have pursued knowledge through **technical courses in Industrial Automation** and **Administration**. My diverse background, along with my hands-on experience, has shaped me into a versatile and dedicated professional.
 
