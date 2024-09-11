@@ -14,7 +14,7 @@ Hello! I'm a 25-year-old developer from Brazil with a passion for web and mobile
 ## Skills & Expertise
 
 ### 🖥️ **Frontend Development**
-- **Angular**: Highly proficient in creating dynamic web applications
+- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white): Highly proficient in creating dynamic web applications
 - **Dart & Flutter**: Building mobile apps with precision and performance in mind
 - **HTML, CSS, JavaScript**: Deep understanding of the foundations of web development
 
