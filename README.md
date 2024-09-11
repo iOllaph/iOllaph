@@ -1,4 +1,4 @@
-# Pabllo Rhuan Carvalho
+# Pabllo Carvalho
 
 **Frontend Developer**
 
