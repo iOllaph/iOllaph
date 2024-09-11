@@ -45,8 +45,11 @@ I use a variety of tools and platforms in my workflow, including **Git** for ver
 ## 📫 **Contact**
 Feel free to reach out to me for collaboration, freelance projects, or just to connect:
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) pabllo164164@gmail.com  
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [linkedin.com/in/pabllo-carvalho-b711b78a](https://linkedin.com/in/pabllo-carvalho-b711b78a)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  
+pabllo164164@gmail.com  
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)  
+[linkedin.com/in/pabllo-carvalho-b711b78a](https://linkedin.com/in/pabllo-carvalho-b711b78a)
 
 ---
 
