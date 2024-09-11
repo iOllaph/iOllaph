@@ -2,56 +2,52 @@
 
 **Frontend Developer**
 
-Hello! I'm a 25-year-old developer from Brazil with a passion for web and mobile development. Despite not having a formal college degree, I have pursued knowledge through **technical courses in Industrial Automation** and **Administration**. My diverse background, along with my hands-on experience, has shaped me into a versatile and dedicated professional.
+Hello! I'm a 25-year-old developer from Brazil with a strong background in frontend development for both web and mobile applications. Although I don't hold a formal college degree, I've completed **technical courses in Industrial Automation** and **Administration**, which complement my technical skills and problem-solving abilities. 
 
-## About Me
+Currently, I work as a **Frontend Developer at Tekeezy**, where I specialize in delivering **pixel-perfect** designs and intuitive user experiences using the latest web technologies.
 
-- 🌍 **Location**: Brazil
-- 💼 **Current Position**: Frontend Developer at **Tekeezy**
-- 🔄 **Career Transition**: Previously worked for 4 years in the construction industry as an electrician freelancer, now thriving in the development world
-- 🎯 **Specialization**: Frontend Development (Web & Mobile)
+## 🚀 Skills & Technologies
 
-## Skills & Expertise
+### 💻 **Frontend Development**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### 🖥️ **Frontend Development**
-- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white): Highly proficient in creating dynamic web applications
-- **Dart & Flutter**: Building mobile apps with precision and performance in mind
-- **HTML, CSS, JavaScript**: Deep understanding of the foundations of web development
+I am proficient in **Angular** and **Flutter**, ensuring that my web and mobile applications not only perform well but also closely follow the designs with **99% accuracy** from tools like **Figma** and **Adobe XD**.
 
-### 🛠️ **Backend & Other Technologies**
-- **C# & .NET Core**: Strong backend capabilities, experience with web API development
-- **MySQL & Workbench**: Comfortable with database management and queries
-- **Node.js**: Backend JavaScript experience for full-stack development
-- **Docker**: Containerization expertise for application deployment
+### 🛠 **Backend & Other Technologies**
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🎨 **Design Integration**
-- **Pixel-Perfect UI**: Achieving a 99% match with design tools like **Figma** and **Adobe XD**
+While my strength is in **frontend development**, I also have a solid grasp of **backend technologies** like **C#**, **.NET Core**, **Node.js**, and **MySQL**. I'm also familiar with **Docker** for containerization and deployment workflows.
 
-## What I Offer
+## 🎨 **Design & UI Integration**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe%20xd&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-With a solid understanding of frontend development, I specialize in bringing UI/UX designs to life with **Angular** and other frontend frameworks. Whether it's creating seamless **web applications** or building performant **mobile apps**, I deliver work that closely mirrors the original design and provides an outstanding user experience. While frontend is my main focus, I also possess a strong understanding of backend technologies, allowing me to work efficiently across the full stack when needed.
+I excel at turning **Figma** and **Adobe XD** designs into fully functional web applications with **pixel-perfect accuracy**, ensuring the final product looks exactly like the design.
 
-## Education & Background
+## 🛠️ **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-- **Technical Courses**: 
-  - **Industrial Automation**
-  - **Administration**
-- **High School Graduate**
-  
-I’m a self-driven learner who continually pushes the boundaries of my skill set. My non-traditional background in both the industrial and technical sectors allows me to bring a unique perspective to the development world.
+I use a variety of tools and platforms in my workflow, including **Git** for version control, **GitHub** for project collaboration, and **Docker** for deploying and managing applications.
 
-## Experience
+## 📫 **Contact**
+Feel free to reach out to me for collaboration, freelance projects, or just to connect:
 
-- **Freelancer**: Worked for 4 years in the electrical field within the construction industry before transitioning to development.
-- **Frontend Developer**: Currently working at **Tekeezy**, focusing on creating high-quality frontend solutions for web and mobile platforms.
-
-## Contact Me
-
-Feel free to reach out for collaboration, freelance opportunities, or just to connect:
-
-- 📧 **Email**: [pabllo164164@gmail.com](mailto:pabllo164164@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/pabllo-carvalho-b711b78a](https://www.linkedin.com/in/pabllo-carvalho-b711b78a/)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) pabllo164164@gmail.com  
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [linkedin.com/in/pabllo-carvalho-b711b78a](https://linkedin.com/in/pabllo-carvalho-b711b78a)
 
 ---
 
-*“Passion, dedication, and continuous learning drive my journey in the tech industry. Let’s build something great together!”*
+*“I believe in continuous learning and pushing the boundaries of what's possible in web and mobile development. Let's create something amazing together!”*
