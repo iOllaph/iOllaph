@@ -1,10 +1,10 @@
 # Pabllo Carvalho
 
-**Frontend Developer**
+**Fullstack Developer**
 
-Hello! I'm a 25-year-old developer from Brazil with a strong background in frontend development for both web and mobile applications. Although I don't hold a formal college degree, I've completed **technical courses in Industrial Automation** and **Administration**, which complement my technical skills and problem-solving abilities. 
+Hello! I'm a 25-year-old developer from Brazil with a strong background in **fullstack development** for both web and mobile applications. Although I don't hold a formal college degree, I've completed **technical courses in Industrial Automation** and **Administration**, which complement my technical skills and problem-solving abilities.
 
-Currently, I work as a **Frontend Developer at Tekeezy**, where I specialize in delivering **pixel-perfect** designs and intuitive user experiences using the latest web technologies.
+Currently, I work as a **Fullstack Developer at Tekeezy**, where I specialize in delivering **pixel-perfect** designs, intuitive user experiences, and seamless backend integrations using the latest web technologies.
 
 ## 🚀 Skills & Technologies
 
@@ -25,14 +25,14 @@ I am proficient in **Angular** and **Flutter**, ensuring that my web and mobile 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-While my strength is in **frontend development**, I also have a solid grasp of **backend technologies** like **C#**, **.NET Core**, **Node.js**, and **MySQL**. I'm also familiar with **Docker** for containerization and deployment workflows.
+As a fullstack developer, I combine my frontend expertise with solid **backend knowledge**. I work with technologies like **C#**, **.NET Core**, **Node.js**, and **MySQL**, allowing me to implement both the client-facing side and server-side logic seamlessly. I'm also experienced with **Docker** for containerization and deployment, ensuring efficient development and production environments.
 
 ## 🎨 **Design & UI Integration**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe%20xd&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-I excel at turning **Figma** and **Adobe XD** designs into fully functional web applications with **pixel-perfect accuracy**, ensuring the final product looks exactly like the design.
+I excel at turning **Figma** and **Adobe XD** designs into fully functional web applications with **pixel-perfect accuracy**, ensuring the final product looks exactly like the design while integrating it smoothly with the backend.
 
 ## 🛠️ **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
