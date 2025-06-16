@@ -2,9 +2,7 @@
 
 **Fullstack Developer**
 
-Hello! I'm a 25-year-old developer from Brazil with a strong background in **fullstack development** for both web and mobile applications. Although I don't hold a formal college degree, I've completed **technical courses in Industrial Automation** and **Administration**, which complement my technical skills and problem-solving abilities.
-
-Currently, I work as a **Fullstack Developer at Tekeezy**, where I specialize in delivering **pixel-perfect** designs, intuitive user experiences, and seamless backend integrations using the latest web technologies.
+Fullstack developer with experience in web and mobile solutions, working with technologies such as Angular, .NET Core, Node.js, Java, Flutter, Android, and iOS native. Strong expertise in databases (PostgreSQL, MySQL) and infrastructure using AWS and Docker. Specialized in clean architecture, code best practices, and agile methodologies, with a focus on delivering efficient, scalable solutions oriented toward solving real-world problems.
 
 ## 🚀 Skills & Technologies
 
@@ -16,7 +14,7 @@ Currently, I work as a **Fullstack Developer at Tekeezy**, where I specialize in
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-I am proficient in **Angular** and **Flutter**, ensuring that my web and mobile applications not only perform well but also closely follow the designs with **99% accuracy** from tools like **Figma** and **Adobe XD**.
+I am proficient in **Angular** and **Flutter**, ensuring that my web and mobile applications not only perform well but also closely follow the designs with **99% accuracy** from tools like **Figma**.
 
 ### 🛠 **Backend & Other Technologies**
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -29,10 +27,8 @@ As a fullstack developer, I combine my frontend expertise with solid **backend k
 
 ## 🎨 **Design & UI Integration**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe%20xd&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-I excel at turning **Figma** and **Adobe XD** designs into fully functional web applications with **pixel-perfect accuracy**, ensuring the final product looks exactly like the design while integrating it smoothly with the backend.
+I excel at turning **Figma** designs into fully functional web applications, ensuring the final product looks exactly like the design while integrating it smoothly with the backend.
 
 ## 🛠️ **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
